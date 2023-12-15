@@ -1,0 +1,11 @@
+Ensemble Learning: Ensemble learning is a machine learning technique that enhances accuracy and resilience in forecasting by merging predictions from multiple models. It aims to mitigate errors or biases that may exist in individual models by leveraging the collective intelligence of the ensemble.
+
+
+Types
+
+1) Bagging : Bootstraping and aggregation
+
+2) Boosting 
+
+
+Bagging have Random Forest
